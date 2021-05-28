@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Квест новелла</string>
+    <string name="title_activity_maps">Map Quest</string>
+    <string name="startquest">Начать квест</string>
+    <string name="title_activity_novel">Novel</string>
+    <string name="read_novel">Читать</string>
+</resources>

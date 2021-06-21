@@ -4,4 +4,9 @@
     <string name="startquest">Начать квест</string>
     <string name="title_activity_novel">Novel</string>
     <string name="read_novel">Читать</string>
+    <string name="welcome">Map Quest</string>
+    <string name="splash">Загрузка...</string>
+    <string name="about">О программе</string>
+    <string name="exit">Выход</string>
+    <string name="readed_novel_title">Список прочитанных новелл</string>
 </resources>
